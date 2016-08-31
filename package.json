@@ -1,11 +1,11 @@
 {
   "name": "du-vue-strap",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Bootstrap components built with Vue.js",
   "main": "dist/vue-strap.js",
   "repository": {
     "type": "git",
-    "url": "xyzget/vue-strap"
+    "url": "xyzget/du-vue-strap"
   },
   "homepage": "http://dev.duduyouxuan.com/du-vue-strap/",
   "directories": {
