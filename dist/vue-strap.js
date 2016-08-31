@@ -9682,6 +9682,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
+	//let Vue = window.Vue
+	
 	// <template>
 	
 	//   <div style="position: relative"
@@ -9732,8 +9734,6 @@ return /******/ (function(modules) { // webpackBootstrap
 	
 	
 	// <script>
-	var Vue = window.Vue;
-	
 	exports.default = {
 	  created: function created() {
 	    this.items = this.primitiveData;

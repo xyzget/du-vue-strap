@@ -27,7 +27,7 @@
 import callAjax from './utils/callAjax.js'
 import coerceBoolean from './utils/coerceBoolean.js'
 
-let Vue = window.Vue
+//let Vue = window.Vue
 
 export default {
   created () {
